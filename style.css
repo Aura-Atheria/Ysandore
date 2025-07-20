@@ -59,3 +59,9 @@ footer {
   color: #aaa;
   font-size: 14px;
 }
+.illustration {
+  display: block;       /* Pour être centrée */
+  margin: 20px auto;    /* Auto = centrage horizontal */
+  max-width: 80%;       /* Ne dépasse pas trop la largeur de la page */
+  border-radius: 10px;  /* (Optionnel) arrondit les coins */
+}
