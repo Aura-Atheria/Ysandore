@@ -35,6 +35,7 @@ section {
   max-width: 900px;
   margin: auto;
   padding: 20px;
+  min-height: 800px;
 }
 .gallery img {
   width: 300px;
