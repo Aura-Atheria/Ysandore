@@ -6,7 +6,7 @@ body {
   line-height: 1.6;
 }
 header {
-  background: url('https://github.com/Aura-Atheria/Ysandore/blob/fe14d985c2331493bffbc2ffd281b3c693ace04c/Stickers_Ysandore_SOLO.png') center/cover no-repeat;
+  background: url('Stickers_Ysandore_SOLO.png') center/cover no-repeat;
   height: 200px;
   display: flex;
   align-items: center;
